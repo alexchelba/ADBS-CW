@@ -1,0 +1,1 @@
+OUTPUT(name) :- PAYMENT(rid, amount), DATE(date, 'some day'), CUSTOMER(name, rid)
